@@ -45,6 +45,8 @@ body{
    ========= */
 header{
   border-bottom: var(--border);
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 header > nav{
